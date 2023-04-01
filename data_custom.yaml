@@ -1,0 +1,6 @@
+train: /Users/zewen/Documents/AlwinYang91/YOLOv8-SLD/train
+val: /Users/zewen/Documents/AlwinYang91/YOLOv8-SLD/val
+
+nc: 5
+
+names: ["Zewen", "LoveYou", "ThankYou", "ThumbsDown", "ThumbsUp"]
