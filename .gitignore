@@ -6,3 +6,4 @@ data
 train
 val
 runs
+best.pt
